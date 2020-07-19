@@ -1,4 +1,1 @@
-Hello and welcome to my blog.
-
-
-## Jyoti's Blog
+## Hello and welcome to my blog.
