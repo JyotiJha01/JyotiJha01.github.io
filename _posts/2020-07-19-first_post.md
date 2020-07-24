@@ -9,7 +9,7 @@ Time is killer, "If you don't care about time, time will never give you chance t
 
 ## 2. Have Good Diet and Keep Hydrate
 Healthy food, water and juice are high of energy and protein which helps your brain to word fast and also helps you remember what you study. Your brain contain 70% of water and so its important be hydrated and drink water frequently. A good diet will help you focus on your study and this will also make you physically strong which is really important for your exam.
-## 3. Do Medication
+## 3. Do Meditation
 Make a hobby of doing meditation its really importang. For the first one or two weeks you don't feel any changes but ones you will realize the benefits of medication, you will become habitual of it. We got some querry from students "Whenever I try to focus on study I get disturbed with useless thoughts", for those students we have only  one solution and that is "Medication". 
 ## 4. Challange Yourself
 Challanging yourself means set the target for the things before time and doing better with time. Suppose you got 40% in the first term then try to score and get 60% in your next term and work hard to get 90% for the next term. You will not succeed until you have not make an ambition to chase. Increase your performance day by day and this will only happen when you study regularly. 
