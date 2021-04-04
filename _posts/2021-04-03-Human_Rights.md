@@ -1,5 +1,4 @@
-# Topic: 
-### The   Evaluation   of   Human   Rights:  An  Overview   in   Historical   Perspective
+# The   Evaluation   of   Human   Rights:  An  Overview   in   Historical   Perspective
 
 ## Table of content
  
