@@ -36,11 +36,12 @@ of the Bangladesh”(National Human Rights Commission Act,2009 Section-2(f).
 #### 1.2 Types   of   Human   Rights 
 Human   Rights   are   integrated,   broad,   and   covered   a   wide   range   of   rights.   On   the   basis   of the   Universal   Declaration   of   Human   Rights,   1948   there   are   the   following   classification; 
 * A. Civil   rights   &   Political   rights ;   Known   as   Fundamental   rights,   Guaranteed   by   Article (27-44)   part   (III)   of   Bangladesh   Constitution. 
-* B. Economic   rights   &   Social   and   Cultural   Rights; Bangladesh   constitution,   part   (II)   Article (8-25)   not   guaranteed. * C. Solidarity   rights, that   is 
+* B. Economic   rights   &   Social   and   Cultural   Rights; Bangladesh   constitution,   part   (II)   Article (8-25)   not   guaranteed. 
+* C. Solidarity   rights, that   is 
   * I)   right   to   development  
-  *  II)   right   to   self-determination. 
+  * II)   right   to   self-determination. 
 The   total   numbers   of   Human   Rights   are   27;   from   which   25   is   described   by   the   Universal Declaration   of   Human   Rights,   1948,   and   the   rest   two   are   described   by   the   Declaration   on the   Granting   of   Independence   to   Colonial   Countries   and   Peoples(DGICCP)   and Declaration   on   the   Right   to Development   (DRD)   [3]. 
-#### 1.3.   Salient   Features   of   Human   Rights 
+#### 1.3. Salient   Features   of   Human   Rights 
 The evident characteristics of Human Rights make them different from other rights.The unique   features are as follows 
 * I. Inherent:   
 The most outstanding characteristics of   Human Rights are that it is inherent 
