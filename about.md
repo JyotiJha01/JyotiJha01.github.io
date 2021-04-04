@@ -45,5 +45,8 @@ R - tools for statistical computing
 * Teaching Intermediate
 
 WORK SAMPLES Other portfolio link
- https://www.youtube.com/channel/UC4h89lUYEhpdDCMbLb_Fwng? view_as=subscriber
+
+* https://www.youtube.com/channel/UC4h89lUYEhpdDCMbLb_Fwng? view_as=subscriber
+
+* https://www.hackerrank.com/JJ404
 
