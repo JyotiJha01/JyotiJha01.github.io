@@ -47,15 +47,15 @@ The   total   numbers   of   Human   Rights   are   27;   from   which   25   is
  
 **1.3. Salient   Features   of   Human   Rights**
 The evident characteristics of Human Rights make them different from other rights.The unique   features are as follows 
-* I. Inherent:   
+ * I. Inherent:   
 The most outstanding characteristics of   Human Rights are that it is inherent 
 and natural.None acquires it by any   special quality of reputation. It is   not the charity of any person or any social system.Every man is by   born entitled to these rights. 
-* II. Not Exchangeable: 
+ * II. Not Exchangeable: 
 Human Rights cannot be handed over,exchanged, or transferred. It is   excessive to all. It could neither be given away nor could be stolen or taken away by snatching. 
-* III. Universality : Universality stands   out as the basic value of human rights. Everyone is entitled to all the rights and freedoms set forth in this Declaration. 
-* IV. Equality:   
+ * III. Universality : Universality stands   out as the basic value of human rights. Everyone is entitled to all the rights and freedoms set forth in this Declaration. 
+ * IV. Equality:   
 Human Rights refer to equal enjoyment of   opportunities and resources to all.Justice, rule of law, and indiscrimination are the philosophy of HumanRights. 
-* V. Feasibility:   
+ * V. Feasibility:   
 The important characteristics of Human Rights are its feasibility or effectiveness.That is Human Rights should never be  viewed  as a   hypothetical or abstract concept. It isshaped   by social values, norms,culture,and institutions 3. 
 **1.4.   Differences   Between   Human   Rights   and   Fundamental   Rights**
 
