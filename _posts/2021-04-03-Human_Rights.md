@@ -57,6 +57,7 @@ Human Rights cannot be handed over,exchanged, or transferred. It is   excessive 
 Human Rights refer to equal enjoyment of   opportunities and resources to all.Justice, rule of law, and indiscrimination are the philosophy of HumanRights. 
  * V. Feasibility:   
 The important characteristics of Human Rights are its feasibility or effectiveness.That is Human Rights should never be  viewed  as a   hypothetical or abstract concept. It isshaped   by social values, norms,culture,and institutions 3. 
+
 **1.4.   Differences   Between   Human   Rights   and   Fundamental   Rights**
 
 ### 1.4.1.   Definitional   Issues   Human   Rights: 

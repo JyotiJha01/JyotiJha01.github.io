@@ -4,62 +4,53 @@ Jyoti Jha
 
 jyoti.k.j04@gmail.com
 
-Mumbai
+Mumbai, 400054
 
-**EDUCATION** 
 
-* Bachelor of Science (B.Sc),Physics
+## EDUCATION :
 
-  R.D.National College 
+**Bachelor of Science (B.Sc), Physics**
 
+  R.D. National College<br>
   2019 - 2022 
 
-* Senior Secondary (XII), Science
+**Higher Secondary (XII)
+Science**
 
-  Sheth Anandilal Podar Junior College
+  Sheth Anandilal Podar Junior College<br>
+  Year of completion: 2019 
 
-  (MAHARASHTRA board)
+**Senior Secondary (X)** 
 
-   Year of completion: 2019 
+  Bharti Academy English High School (MAHARASHTRA board)<br>
+  Year of completion: 2017<br>
+  Percentage: 70.00%
 
-* Secondary (X) 
+## JOBS :      
 
-  Bharti Academy English High School
+**Telecalling Akiko, Mumbai**<br>
+May 2019 - Jul 2019<br>
+- To call and sell credit card
 
-  (MAHARASHTRA board)
+## TRAININGS & WORKSHOPS :
 
-   Year of completion: 2017 
-
-   Percentage: 70.00%
-
-**JOBS**      
-
-               Telecalling Akiko, Mumbai
-               May 2019 - Jul 2019 
-               To call and sell credit card
-
-**TRAININGS** 
-
-            R Somaiya Vidyavihar, Online   
-            May 2020 - May 2020 
-            R - tools for statistical computing
+**R Somaiya Vidyavihar**<br> 
+- R - tools for statistical computing
 
 
-**SKILLS**
-* MS-PowerPoint Intermediate
-* MS-Excel Beginner
-* MS-Oce Intermediate
-* R Programming Beginner
-* Physics Intermediate
-* Mathematics Intermediate
-* Chemistry Intermediate
-* Biology Beginner
-* Java Intermediate
-* Teaching Intermediate
+## SKILLS :
+* MS-PowerPoint 
+* MS-Excel 
+* R Programming 
+* Physics 
+* Mathematics 
+* Chemistry 
+* Biology 
+* Java
+* Teaching 
 
 **WORK SAMPLES OTHER PORTFOLIO LINK**
 
-* https://www.youtube.com/channel/UC4h89lUYEhpdDCMbLb_Fwng? view_as=subscriber
+* [Youtube](https://www.youtube.com/channel/UC4h89lUYEhpdDCMbLb_Fwng?view_as=subscriber)
 
-* https://www.hackerrank.com/JJ404
-
+* [HackerRank](https://www.hackerrank.com/JJ404)
