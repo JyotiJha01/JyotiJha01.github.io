@@ -2,18 +2,18 @@
 
 ## Table of content
  
-* 1     ABSTRACT  
-* 2     INTRODUCTION  
-* 2.1  CONCEPT   OF   HUMAN   RIGHTS  
-* 2.2  TYPES   OF   HUMAN   RIGHTS  
-* 2.3  FEATURE   OF   HUMAN   RIGHTS  
-* 2.4  DIFFERENCES   BETWEEN   HUMAN   RIGHTS   
-*  3     HISTORICAL    PERSPECTIVE  
-* 3.1     THE   ANCIENT   AGE  
-* 3.2     THE   MEDIEVAL   AGE  
-* 3.3      THE   MODERN   AGE  
-* 4      STRENGTHENING   HUMAN   RIGHTS   
-* 5  CONCLUSION  
++ ABSTRACT
++ INTRODUCTION
+  1. CONCEPT OF HUMAN RIGHTS
+  2. TYPES OF HUMAN RIGHTS  
+  3. FEATURE OF HUMAN RIGHTS
+  4. DIFFERENCES BETWEEN HUMAN RIGHTS
++ HISTORICAL PERSPECTIVE  
+  1. THE ANCIENT AGE  
+  2. THE MEDIEVAL AGE 
+  3. THE MODERN AGE 
++ STRENGTHENING HUMAN RIGHTS  
++ CONCLUSION
 
 ## Abstract: 
 *A  new   world   order   came   into   being   out  of   the   ashes   of   World   War   II   in   1945, putting   respect   for   human   rights   alongside   peace,   security,   and   development as   the   primary   objectives   of   the   United   Nations.   The   Universal   Declaration   of Human   Rights   proclaimed   in   1948,   provided   a   framework   for   a   series   of international   human   rights   conventions.   Presently   almost   all   the 
@@ -25,7 +25,7 @@ philosophical   thinking.   For   conducting   this   study   data   was   colle
 several   articles,   books,   and   related   documents   regarding   Human   Rights   as   a 
 qualitative   paper.*
 
-## 1. Introduction
+## Introduction
 
 As the  Second World War appeared to be drawing   to a close, world leaders started planning  for banishing war and resorting   to   sustainable   peace. The United Nations Charter envisaged   the  promotion of universal respect  for,  and   observance of, human rights and fundamental   freedoms  for all without distinction as to   race, sex, language or religion as one of   the   means for that end. On the 10th December   1948,  the U.N. General Assembly adopted and   proclaimed the Universal Declaration of   Human   Rights. The Declaration for the first time   generated a common standard of rights for   all peoples   and   all   nations   without   any   discrimination   [1].   Human   Rights   are   mostly   inherent and   natural   rights,   the   execution,   preservation,   or   enjoyment   of   Human   Rights   is   simply 
 impossible.   It   is   also   true   that   without   ensuring   Human   Rights   the   development   of   life   is quite   impossible.   In   this   regard,   every   nation   follows   the   international   instrument   of   Human Rights. In   this   sense,   in   2009   a   National   Human   Rights   Commission   is   established   in Bangladesh   to   protect   the   human   rights   of   its   citizens.
@@ -36,7 +36,8 @@ Rights   are   something   people   demand   or   desire   for   their   self-De
 standards   without   which   people   cannot   live   in   dignity.   The   basic   rights   and   freedoms, to   which   all   humans   are   entitled,   often   held   to   include   the6   Md.   Kamruzzaman   and   Shashi Kanto   Das:   The   Evaluation   of   Human   Rights:   An   Overview   in   Historical   Perspective   right to   life   and   liberty,   freedom   of   thought   and   expression, and   equality   before   the   law.   To   violate   someone’s   human   right   is   to   treat   that   person   as though   she   or   he   were   not   a   human   being.   These   are   basically   few   natural   rights   which cannot   be   denied,   but   at   the   same   time   not   guaranteed   by   Statutory   Law.   It   is   the obligation   of   the   state   to   promote   and   protect   human   rights   [2].   The   New   Lexicon Webster’s   Dictionary   of   the   English   language   describes   the   “Human   Rights”   expression   as under,   “The   right   to   be   free   from   Governmental   violations   of   the integrity   of   the   persons”.“Human Rights means Right to life, Right to liberty, Right to Equality, and Right to the dignity   of a person guaranteed by the   constitution of the People’s Republic of Bangladesh and such other Human Rights documents and ratified  by the People’s Republic of Bangladesh   and enforceable by the existing laws 
 of the Bangladesh”(National Human Rights Commission Act,2009 Section-2(f).
 
-**1.2 Types   of   Human   Rights**
+**1.2. Types   of   Human   Rights**
+
 Human   Rights   are   integrated,   broad,   and   covered   a   wide   range   of   rights.   On   the   basis   of the   Universal   Declaration   of   Human   Rights,   1948   there   are   the   following   classification; 
 * A. Civil   rights   &   Political   rights ;   Known   as   Fundamental   rights,   Guaranteed   by   Article (27-44)   part   (III)   of   Bangladesh   Constitution. 
 * B. Economic   rights   &   Social   and   Cultural   Rights; Bangladesh   constitution,   part   (II)   Article (8-25)   not   guaranteed. 
@@ -46,6 +47,7 @@ Human   Rights   are   integrated,   broad,   and   covered   a   wide   range  
 The   total   numbers   of   Human   Rights   are   27;   from   which   25   is   described   by   the   Universal Declaration   of   Human   Rights,   1948,   and   the   rest   two   are   described   by   the   Declaration   on the   Granting   of   Independence   to   Colonial   Countries   and   Peoples(DGICCP)   and Declaration   on   the   Right   to Development   (DRD)   [3].
  
 **1.3. Salient   Features   of   Human   Rights**
+
 The evident characteristics of Human Rights make them different from other rights.The unique   features are as follows 
  * I. Inherent:   
 The most outstanding characteristics of   Human Rights are that it is inherent 
@@ -64,7 +66,9 @@ The important characteristics of Human Rights are its feasibility or effectivene
 Human Rights are those basic standards 
 without which people cannot live in  dignity.   Human Rights are inherent to each individual. 
 Fundamental Rights:Fundamental Rights are   those rights or Human Rights which are guaranteed by the constitution.All Fundamental Rights are   Human Rights but all Human Rights are not   fundamental rights. Human Rights are   concerned  with all human beings of the world but fundamental rights are related between one state and its citizens. 
+
 ### 1.4.2.   Number   of   Human   Rights   and   Fundamental   Rights 
+
 According   to   the   Universal   Declaration   of   Human   Rights,   1948   the   number   of   Human Rights   is   25   (Civil   and   Political   Rights-19   and   Economic,   Social   and   Cultural   Rights-06). There   are   also   another   two   kinds   of   Human   Rights   Known   as   Solidarity   rights.   According to   DGICCP,   one   right   is   to   Self-determination   and   according   to   DRD,   another   right   is   to Self-development.   So   the   total   numbers   of   Human   Rights   are   27.   On   the   other   hand,   there are   no   constant   numbers   of   fundamental   rights.   It   varies   from   country   to   country.   It depends   on   the   Political   and   economic   conditions   of   any   state.   The   numbers   of Fundamental   rights   in   Bangladesh   are   18. 
 
 ### 1.4.3.   Historical   Perspective 
@@ -79,7 +83,7 @@ Human   Rights   are   the   same   for   all   human   beings   regardless   of
 
 Human   Rights   are   protected   and   Promoted   by   International   Law   but   fundamental   rights are   protected   promoted   by   the   States. The   idea   of   human   rights   law   at   the   core   of   the   American   and   French   revolutions   which inaugurated   an   era   of   democratic   revolution   throughout   the   nineteenth   century   paving   the way   for   the   advent   of   universal   suffrage.   The   world   wars   of   the   twentieth   century   led   to   the Universal   Declaration   of   Human   Rights.   The   post-war   era   saw   human   rights   movements for   special   interest   groups   such   as   feminism   and   the   civil   rights   of   African-Americans.   The human   rights   of   members   of   the   Soviet   bloc   emerged   in   the 1970s   along   with   workers'   rights   in   the   West. 
 
-## 2.Historical   Perspective
+## Historical   Perspective
 
 Human   Rights   apparently   seem   to   be   a   concept   of   the   modern   age.   But   the   origin   of   the concept   takes   us   to   the   remote   past.   So   it   can   be   stated   that   Human   Rights   have   acquired the   sophisticated   legal   and   well-arranged   present   from   by   wandering   a   long   way. The chronological   history   of   Human   7   Rights   can   be   looked   at   from   three   phases   according   to development   and   recognition.   These   are 
  * 1.The   Ancient   Age 
@@ -167,7 +171,7 @@ relating   to   the   Protection   of   Victims   of   Non-International   Armed
 * Protocol III (2005) : 
 Protocol   Additional   to   the   Geneva   Conventions   of   12   August   1949,   and  relating   to   the   adoption   of   an   Additional   Distinctive   Emblem.   As   of   May   20,   2008,   it   had been   ratified   by   28   countries   and   signed   but   not   yet   ratified   by   an   additional   59   countries. All   four   conventions   were   last  revised   and   ratified   in   1949,   based   on   previous   revisions and   partly   on   some   of   the   1907   Hague   Conventions.   Later   conferences   have   added 3provisions   prohibiting   certain   methods   of   warfare   and   addressing   issues   of   civil   wars. Nearly   all   200   countries   of   the world   are   "signatory"   nations,   in   that   they   have   ratified these   conventions.   The   International   Committee   of   the   Red   Cross   is   the   controlling   body of   the   Geneva   conventions. 
 
-## 3.Strengthening   Human   Rights 
+## Strengthening   Human   Rights 
 *(National   Human   Right   Commission,   Bangladesh)*
 
 After   the   Second   World   War,   the   world   manifested   its   deep   concern   for   Human   Rights. The   United   Nations   adopted   the   Universal   Declaration   of   Human   Rights   on   December   10 of   1948.   Later   on,   the   UN   adopted   two   Covenants   on   Economic,   Social   and   Cultural Rights   and   Civil   and   Political   Rights   on   16th   December   1966.   Bangladesh   acceded   to   the Covenant   on   Civil   and   Political   Rights   on   6   September   2000   and   the   Covenant   on Economic,   Social   and   Cultural   Rights   on   5   October,   1998.   An   ordinance   was   promulgated in   2007   which   formally   established   the   National   Human   Rights   Commission   which   started functioning   from   December   2008   in   a   very   limited   sphere.   After   the   free   and   fair   general election   in   2008,   the   Parliament   enacted   the   National   Human   Rights   The   Honorable President,   upon   Commission   Act-2009,   superseding   the   2007Ordinance   reflecting   the Committee,   appointed   the   Chairman   and constitutional   and   international   human   rights obligation   espoused   in   the   ‘Paris   Principles’   relating   to   the   status   of   national   human   rights institutions.   The   UN   General   Assembly   in   1993   endorsed   a   set   of   minimum   criteria designed   to   ensure   the   independence,   effectiveness   and   pluralism   of   the   national   human rights   institution   in   the   name   of   the   'Paris   Principles'.   Accordingly,   based   on   the   'Paris Principles'   and   in   pursuant   to   the   NHRC Act   2009,   the   National   Human   Rights   Commission,   Bangladesh   was   established   as   an independent   and   statutory   institution. The   NHRC   is   an   independent   statutory   body   established   by   legislation   (NHRC   Act,   2009). Though   NHRC   is   established   only   in   December   2008,   it’s   eradicated   for   a better   and   transparent   commenced   its   de   facto   journey   from   understanding   of   Human Rights.   23   June   2010.   Some   of   the   remarkable   features   of   the   NHRC   are   its identification   of   the   thematic   areas   and   vulnerable   groups,   formation   of   theme-wise committees   to   address   issues,   establishment   of   links   among   the   different   groups   of stakeholders   etc.   Holding   of   policy   dialogue   of   the   Commission   with   the   Secretaries   of Bangladesh   Government   and   nomination   of   Focal   Points   in   each   relevant   ministry   in the   process   of   UPR   is   a   milestone   human   rights   arena.   This   has   not   only   Created   links between   the   Government,   NGOs   and   UN   agencies   and   the   International   Juvenile   Justice Observatory   international   community   but   also   helped   the   state   actors   to better   prepare   themselves   for   the   2nd   cycle   of   UPR.   As   an   apex   national   human   rights monitoring   body,   the   NHRC   has   been   able   to   successfully   create   awareness   and consensus   on   basic   human   rights   issues   through   a   series   of   seminars   and   workshops.Besides   these,   the   Commission   has   organized   seminars   on   Prosecuting   Crimes   against Humanity   currently   being   tried   by   the   International   Crimes   Tribunal   Bangladesh   (ICTB). Human   Rights   Awareness   and   through   a   series   of   seminars   and   Education   elaborate   the achievements   of   in   respect   of   its   most   important   mandated   goal   of   raising   awareness amongst   people   of   all   walks   of   life.   The   major   areas   of   success   include,   among   others,   a Mass   Awareness   Campaign   of   Working   Together   for   the   Promotion   of   Human   Rights, Awareness   Creation   on   Child   Rights   and   Juvenile   Justice   System,   principles,   Violence against   Women   etc   [14-20]. 
@@ -178,5 +182,5 @@ The   preceding   discussion   gives   an   impression   that   natural   Human 
  
  
  
-                                       THANK YOU  
+            THANK YOU  
  
