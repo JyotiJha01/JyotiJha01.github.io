@@ -30,10 +30,10 @@ Greaves and her team have already examined the new data. In another preprint, he
 
 References:
 
-* ![](www.chemistryworld.com)
-* ![](www.nature.com) 
-* ![](www.washington.edu)
-* ![](www.clarasousasilva.com)
+* ![www.chemistryworld.com](www.chemistryworld.com)
+* ![www.nature.com](www.nature.com) 
+* ![www.washington.edu](www.washington.edu)
+* ![www.clarasousasilva.com](www.clarasousasilva.com)
 
        
 
