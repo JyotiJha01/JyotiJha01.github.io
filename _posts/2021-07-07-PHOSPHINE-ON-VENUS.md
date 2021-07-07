@@ -6,7 +6,7 @@ The discovery of Phosphine in the clouds around venus in september 2020 left the
 **Phosphine(PH3)** is a pyramid shaped molecule with a single phosphorus atom on top, and a base formed of three hydrogen atoms. It is the simplest gas that has phosphorus on it, the phosphorus equivalent of ammonia(for nitrogen), methan (for carbon), and water(for oxygen).
 
 **Structure of PH3**
-![](images/ph3.PNG)
+![](/images/ph3.PNG)
 
 			 	
 **Phosphine(PH3)** is found here on Earth. as well as on the solar system's gas giants. Deep within Jupiter and Saturn , high temperature and extreme pressure combine to create phosphine spontaneously. The reducing atmosphere of these giant  planets means this compound can not only form, but also persists. On Earth, However, phosphine is  a byproduct of the decomposition of origin matter humanity also synthesizes for use in the semiconductor and plastic industries. Given the oxidising atmosphere found on many rocky planets, Such as Earth, phosphine quickly breaks down, but is replenished by organic processes. This has led astrochemists to conclude that phosphine could be a proxy for life as its synthesis Via. Other Processes on rocky planets are considered unlikely. That is why atmosphere of Venus by a team of scientists led by Jane Greaves.  
