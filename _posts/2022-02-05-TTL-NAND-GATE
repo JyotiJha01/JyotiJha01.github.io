@@ -7,7 +7,7 @@ TTL consists of two parts as follows:
     1. Input - It consist of multiemitter transister and n-p-n transister.
     2. output - consist of two n-p-n transister.
 
-![](/images/TTL.PNG)
+![TTL](https://user-images.githubusercontent.com/58852392/155007954-782a5569-d917-45fe-bcff-fa508c155a3e.png)
 
 
 The NAND GATE circuit :
